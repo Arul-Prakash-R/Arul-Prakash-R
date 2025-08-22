@@ -64,13 +64,13 @@ I help organizations strengthen their security by identifying and responsibly di
 ![trophy](https://github-profile-trophy.vercel.app/?username=ArulprakashAP01&theme=darkhub&margin-w=10&margin-h=10&column=6)
 
 ---
-
+<!--
 ## 👀 Profile Visitors  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ArulprakashAP01&color=blue&style=flat-square)
 
 ---
-
+-->
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arul-prakash-0189b7276/)  
