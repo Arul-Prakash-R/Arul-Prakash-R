@@ -76,6 +76,6 @@ I help organizations strengthen their security by identifying and responsibly di
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arul-prakash-0189b7276/)  
 
 📧 **Email:** arulprakash@onion.org
-🌐 **Portfolio/Blog:** [yourwebsite.com](https://arul.vercel.app)
+🌐 **Portfolio/Blog:** [website](https://arul.vercel.app)
 
 ---
