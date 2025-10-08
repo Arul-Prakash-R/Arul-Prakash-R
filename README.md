@@ -46,7 +46,7 @@ I help organizations strengthen their security by identifying and responsibly di
 ---
 
 ## 🚀 Featured Projects  
-- 🔍 [**Recon Automation Toolkit**](https://github.com/yourusername/recon-tool) – Automated recon for bug bounty & pentesting  
+- 🔍 [**Recon Automation Toolkit**]([https://github.com/yourusername/recon-tool](https://github.com/Arul-Prakash-R/web_recon_tool)) – Automated recon for bug bounty & pentesting  
 - 🎯 [**Custom Nuclei Templates**](https://github.com/Arul-Prakash-R/custom-nuclei-templates) – Personal library of vuln detection templates  
 <!--- 🧩 [**CTF Writeups**](https://github.com/yourusername/ctf-writeups) – Capture The Flag solutions & notes  -->
 
