@@ -47,21 +47,21 @@ I help organizations strengthen their security by identifying and responsibly di
 
 ## 🚀 Featured Projects  
 - 🔍 [**Recon Automation Toolkit**](https://github.com/yourusername/recon-tool) – Automated recon for bug bounty & pentesting  
-- 🎯 [**Custom Nuclei Templates**](https://github.com/ArulprakashAP01/custom-nuclei-templates) – Personal library of vuln detection templates  
+- 🎯 [**Custom Nuclei Templates**](https://github.com/Arul-Prakash-R/custom-nuclei-templates) – Personal library of vuln detection templates  
 <!--- 🧩 [**CTF Writeups**](https://github.com/yourusername/ctf-writeups) – Capture The Flag solutions & notes  -->
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArulprakashAP01&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArulprakashAP01&layout=compact&theme=dark)  
+![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arul-Prakash-R&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arul-Prakash-R&layout=compact&theme=dark)  
 
 ---
 
 ## 🏅 Achievements & Trophies  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ArulprakashAP01&theme=darkhub&margin-w=10&margin-h=10&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=Arul-Prakash-R&theme=darkhub&margin-w=10&margin-h=10&column=6)
 
 ---
 <!--
