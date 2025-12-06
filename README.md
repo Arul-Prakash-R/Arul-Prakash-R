@@ -50,14 +50,6 @@ I help organizations strengthen their security by identifying and responsibly di
 - 🎯 [**Custom Nuclei Templates**](https://github.com/Arul-Prakash-R/custom-nuclei-templates) – Personal library of vuln detection templates  
 <!--- 🧩 [**CTF Writeups**](https://github.com/yourusername/ctf-writeups) – Capture The Flag solutions & notes  -->
 
----
-
-## 📊 GitHub Stats  
-
-![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arul-Prakash-R&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arul-Prakash-R&layout=compact&theme=dark)  
-
----
 
 ## 🏅 Achievements & Trophies  
 
