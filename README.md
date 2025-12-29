@@ -51,10 +51,6 @@ I help organizations strengthen their security by identifying and responsibly di
 <!--- 🧩 [**CTF Writeups**](https://github.com/yourusername/ctf-writeups) – Capture The Flag solutions & notes  -->
 
 
-## 🏅 Achievements & Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Arul-Prakash-R&theme=darkhub&margin-w=10&margin-h=10&column=6)
-
 ---
 <!--
 ## 👀 Profile Visitors  
